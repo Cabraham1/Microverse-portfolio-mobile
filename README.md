@@ -18,6 +18,8 @@ To get a local copy .
 - Install node package. [Link to download node](https://nodejs.org/en/download/)
 - Have git installed.[Link to download git](https://git-scm.com/downloads)
 - Create a github repository.
+- On your local machine run the following git commnad to clone my repository
+- git clone <my github repository url>
 
 
 ## Author
